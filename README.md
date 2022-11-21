@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Husseym-max
 - 👀 I’m interested in ...Java Developer
-- 🌱 I’m currently learning ...Java
+- I have learned java,Dsa,Html
+- 🌱 I’m currently learning ...MERN Stack
 - 💞️ I’m looking to collaborate on ...Anytime
 - 📫 How to reach me ...please email me or Whatsapp me-7001918272
 
