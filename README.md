@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Husseym-max
+- 👋 Hi, I’m @Hasibul Mallick
 - 👀 I’m interested in ...Java Developer
-- I have learned java,Dsa,Html
-- 🌱 I’m currently learning ...MERN Stack
+- I have learned JAVA,HTML,CSS,NODE,EXPRESS,MONGODB,PASSPORT,REACT,REDUX
+- 🌱 I’m currently looking for job.
 - 💞️ I’m looking to collaborate on ...Anytime
 - 📫 How to reach me ...please email me or Whatsapp me-7001918272
 
